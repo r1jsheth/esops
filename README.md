@@ -7,5 +7,5 @@ Other links:
 
 https://medium.com/fables-of-esop/setting-up-your-first-esop-plan-1b9b2f05aafd
 
-[Why "Post Termination Exercise Period" matters?]([url](https://medium.com/@theobscureint/importance-of-the-exercise-period-of-an-esop-grant-81b9137f44e6))
+[Why does "Post Termination Exercise Period" matter?](https://medium.com/@theobscureint/importance-of-the-exercise-period-of-an-esop-grant-81b9137f44e6)
 
