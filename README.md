@@ -1,4 +1,4 @@
-# esops
+# ESOPs at a glance (Indian startups)
 
 ESOP Policies : Company-Wise List
 https://docs.google.com/spreadsheets/d/1-drglGydU_LG1o-jA7kY30TCgIMppmNXZDHcJws-XXc/edit#gid=0
